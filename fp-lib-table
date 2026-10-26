@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "YUWEI_Lib") (type "KiCad") (uri "C:/Users/lukas/Desktop/Projects/YUWEI_Product_Design_2026/KiCad/YUWEI_Lib.pretty") (options "") (descr ""))
+	(lib (name "YUWEI_Lib") (type "KiCad") (uri "C:/Users/lukas/Desktop/Projects/YUWEI_Product_Design_2026/KiCad/YUWEI_Lib.pretty") (options "") (descr ""))
+	(lib (name "YUWEI_Lib") (type "KiCad") (uri "C:/Users/lukas/Desktop/Projects/YUWEI_Product_Design_2026/KiCad/YUWEI_Lib.pretty") (options "") (descr ""))
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/libs/lcsc/footprints.pretty") (options "") (descr ""))
+	(lib (name "lcsc_footprints") (type "KiCad") (uri "${KIPRJMOD}/libs/lcsc/footprints.pretty") (options "") (descr "LCSC imported footprints"))
+	(lib (name "YUWEI_Lib") (type "KiCad") (uri "C:/Users/lukas/Desktop/Projects/YUWEI_Product_Design_2026/KiCad/YUWEI_Lib.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,30 @@
+Info: Processing symbol 'BUZZER1:footprints:C2685546_BUZ-SMD_4P-L7_5-W7_5-BR'.
+Info: Processing symbol 'C2:PCM_JLCPCB:C_0402'.
+Info: Processing symbol 'C3:footprints:C29936_C0603'.
+Info: Processing symbol 'C4:footprints:C29936_C0603'.
+Info: Processing symbol 'C7:PCM_JLCPCB:C_0603'.
+Info: Processing symbol 'CN1:YUWEI_Lib:Display Connector'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Right'.
+Info: Processing symbol 'Q1:lcsc_footprints:C2940629_SOT-23-3_L2_9-W1_3-P0_95-LS2_4-BR-1'.
+Info: Processing symbol 'Q2:PCM_JLCPCB:Q_SOT-23'.
+Info: Processing symbol 'R1:PCM_JLCPCB:R_0603'.
+Info: Processing symbol 'R5:PCM_JLCPCB:R_0603'.
+Info: Processing symbol 'R6:PCM_JLCPCB:R_0603'.
+Info: Processing symbol 'R7:PCM_JLCPCB:R_0603'.
+Info: Processing symbol 'TP3:TestPoint:TestPoint_Pad_D2.0mm'.
+Info: Processing symbol 'TP4:TestPoint:TestPoint_Pad_D2.0mm'.
+Info: Processing symbol 'TP5:TestPoint:TestPoint_Pad_D2.0mm'.
+Info: Processing symbol 'TP6:TestPoint:TestPoint_Pad_D2.0mm'.
+Info: Processing symbol 'U1:YUWEI_Lib:XIAO-SAMD21-SMD'.
+Info: Processing symbol 'U3:footprints:C62244_SOT-23-3_L2_9-W1_3-P1_90-LS2_4-BR'.
+Info: Processing symbol 'U4:footprints:C179171_SOIC-8_L5_3-W5_3-P1_27-LS8_0-BL'.
+Info: Processing symbol 'U5:YUWEI_Lib:FCS0V474ZFTBR24'.
+Info: Processing symbol 'U6:YUWEI_Lib:Single Pad'.
+Info: Processing symbol 'U7:YUWEI_Lib:Single Pad'.
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Error: CN1 pad 10 not found in YUWEI_Lib:Display Connector.
+
+
+Info: Total warnings: 3, errors: 1.

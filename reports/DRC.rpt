@@ -1,0 +1,115 @@
+** Drc report for TIME_CAP.kicad_pcb **
+** Created on 2026-08-26T13:21:47 **
+** Report includes: Errors, Warnings **
+
+** Found 24 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.1096 mm)
+    Rule: board setup constraints edge; error
+    @(161.5000 mm, 24.8000 mm): Rectangle on Edge.Cuts
+    @(183.2286 mm, 76.4860 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(230.8250 mm, 53.3500 mm): Circle on Edge.Cuts
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+[lib_footprint_mismatch]: Footprint 'DS3231 Breakout' does not match copy in library 'YUWEI_Lib'
+    Local override; warning
+    @(189.0900 mm, 34.9400 mm): Footprint U2
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+    @(230.9000 mm, 53.4000 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(200.4991 mm, 58.3121 mm): Polygon of G*** on F.Silkscreen
+    @(197.7783 mm, 57.8800 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(206.0295 mm, 60.8811 mm): Polygon of G*** on F.Silkscreen
+    @(207.0100 mm, 61.7762 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(168.0547 mm, 46.8183 mm): Polygon of G*** on F.Silkscreen
+    @(166.3970 mm, 51.3128 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+    @(201.2292 mm, 35.2534 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+    @(209.6935 mm, 55.0584 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+    @(203.0234 mm, 51.6874 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+    @(201.2046 mm, 54.0414 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(235.3816 mm, 24.7264 mm): Polygon of G*** on F.Silkscreen
+    @(183.6014 mm, 30.1550 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(181.9752 mm, 77.9185 mm): Polygon of G*** on F.Silkscreen
+    @(183.2286 mm, 76.4860 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(193.4318 mm, 36.7534 mm): Polygon of G*** on F.Silkscreen
+    @(201.2292 mm, 35.2534 mm): Polygon [<no net>] of G*** on F.Cu
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(223.7700 mm, 31.0200 mm): Segment of J1 on B.Silkscreen
+    @(226.4200 mm, 27.3500 mm): Segment of U2 on B.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(223.7700 mm, 46.4800 mm): Segment of J1 on B.Silkscreen
+    @(226.4200 mm, 27.3500 mm): Segment of U2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(222.8900 mm, 43.0400 mm): Footprint text of U2 (VCC)
+    @(223.4950 mm, 42.5600 mm): Pad 2 [/VREG] of J1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(223.0900 mm, 33.0400 mm): Footprint text of U2 (32K)
+    @(223.4950 mm, 32.4000 mm): Pad 6 [unconnected-(J1-Pin_6-Pad6)] of J1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(226.4200 mm, 27.3500 mm): Segment of U2 on B.Silkscreen
+    @(226.8050 mm, 34.9400 mm): Pad 5 [/Q1_Gate] of J1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(226.4200 mm, 27.3500 mm): Segment of U2 on B.Silkscreen
+    @(226.8050 mm, 45.1000 mm): Pad 1 [GND] of J1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(226.4200 mm, 27.3500 mm): Segment of U2 on B.Silkscreen
+    @(226.8050 mm, 40.0200 mm): Pad 3 [/SDA] of J1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(223.0900 mm, 37.9400 mm): Footprint text of U2 (SCL)
+    @(223.4950 mm, 37.4800 mm): Pad 4 [/SCL] of J1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(177.3200 mm, 40.7500 mm): Reference field of Q2
+    @(178.1200 mm, 40.6000 mm): Pad 1 [GND] of R5 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(177.3200 mm, 40.7500 mm): Reference field of Q2
+    @(176.4800 mm, 40.6000 mm): Pad 2 [/BUZZER_CTRL] of R5 on B.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - PTH inside courtyard
+    - NPTH inside courtyard
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

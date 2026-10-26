@@ -1,0 +1,6 @@
+*.step binary
+*.stp binary
+*.stl binary
+*.obj binary
+*.wrl binary
+*.pcb3d binary
